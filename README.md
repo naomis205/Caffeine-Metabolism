@@ -1,1 +1,1 @@
-This project (c/o CPSC 103) aimed to analyze caffeine depletion in the human body through program design in Python. The program accepts two drink names at a time, and will create a visual representation of caffeine metabolism (based on half-life of 5 hours) over time.
+This project (c/o CPSC 103) aimed to analyze caffeine depletion in the human body through program design in Python. The program accepts two drink names at a time, and will create a visual representation of caffeine metabolism (based on literature half-life of 5 hours) over time.
